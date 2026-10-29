@@ -1,6 +1,7 @@
 # 🌐 Anh Tuan — Portfolio & Projects
 
-Hi! I'm OnlineVisionK — a curious builder who blends thoughtful design with practical engineering to ship polished web and cloud experiences. I'm motivated by clean interfaces, efficient backend systems, and automation that saves time for teams and users alike.
+Hi! I'm Anh Tuan
+ — a curious builder who blends thoughtful design with practical engineering to ship polished web and cloud experiences. I'm motivated by clean interfaces, efficient backend systems, and automation that saves time for teams and users alike.
 
 ---
 
